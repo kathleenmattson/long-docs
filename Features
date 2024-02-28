@@ -1,53 +1,53 @@
-Features required for specs and other long docs
-===============================================
+# Features required for specs and other long docs
 
-* Page setup:
+- Page setup:
   * Designate custom paper sizes, e.g., Cut-A4
   * Size of margins and size of header/footer space
-* Page numbering: 
+- Page numbering: 
   * Set start, e.g., on cover, after TofC, etc.
   * Optional pre-numbering, e.g., i, ii, iii
-* Tables of contents:
+- Tables of contents:
   * Separate lists for heads and items, e.g., tables, figures, etc.
   * Can select number of head levels to include
   * Name, page number, or both are linked
-* Indexing support
-* Running headers and footers:
+- Indexing support
+- Running headers and footers:
   * Choose whether to change for recto/verso
   * Can include a graphic, e.g., logo
   * Choose position of page number
   * Optional line positioning
   * Variables, e.g., doc title, current section, etc.
     * Section excludes or includes number
-* Headings:
+- Headings:
   * At least 4 levels of heads (5 would be nice)
   * Auto-numbering of heads including options, e.g., numbers, letters, label before number, etc.
   * Separate head numbering for annexes
-* Lists:
+- Lists:
   * Nesting bullets to 3 levels
   * Nesting numbered lists including options, e.g., numbers, letters, etc.
-* Can indicate paragraphs not to break across pages or to keep with next
-* Create custom items, e.g., listings
-* Item numbering:
+- Can indicate paragraphs not to break across pages or to keep with next
+- Create custom items, e.g., listings
+- Item numbering:
   * Auto-numbering and captions on items
   * Options on numbering style,  e.g., 2-1, 1, etc.
   * Setting for above or below item is global per item type
-* Insert vector or raster graphics
-* Table complexity, incl.:
+- Insert vector or raster graphics
+- Table complexity, incl.:
   * Indicate one or more rows as header row
   * Header rows can repeat on each page
   * Auto-add continuation notice before before and after table-interrupting page beak
   * Can indicate row cannot break across page
   * Tables can also be oriented at 90 degrees
-* Linking and cross-refs:
+- Linking and cross-refs:
   * Cross-refs to in-doc heads and items 
   * Refs to other doc items, e.g., [references]
   * All of above can be set to link or not
-* Equation support
-* Endnotes and footnotes
+- Equation support
+- Endnotes and footnotes
   * Numbering options, e.g., numbers, symbols, etc.
-* Conditional text
-* Variables use
+- Conditional text
+- Variables use
+
 * Commenting out
 * Metadata/properties support
 
